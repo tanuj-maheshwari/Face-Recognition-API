@@ -1,0 +1,7 @@
+'fastapi[all]'
+mysql-connector-python-rf
+face_recognition
+'uvicorn[standard]'
+gunicorn
+coverage
+pytest
