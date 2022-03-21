@@ -11,7 +11,7 @@ Python based API service that performs "facial search" on a database of images.
 
 ## What does this program do?
 
-This is a Python WebApp, built using [FastAPI](https://fastapi.tiangolo.com/), that can be used to perform "facial search" on images stored on the server in a Relational Database (specifically MySQL) to get the top-k matches for all the faces in an input image.
+This is a Python API, built using [FastAPI](https://fastapi.tiangolo.com/), that can be used to perform "facial search" on images stored on the server in a Relational Database (specifically MySQL) to get the top-k matches for all the faces in an input image.
 
 The application uses [ageitgey's facial recognition library](https://github.com/ageitgey/face_recognition) for facial matching.
 
